@@ -20,6 +20,7 @@
 #ifndef F_CHECKSUM_C
 #define F_CHECKSUM_C
 
+#include <stdint.h>
 
 // The checksum structure.
 struct s_checksum {
